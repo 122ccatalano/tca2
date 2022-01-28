@@ -1,11 +1,33 @@
 /* color scheme
 #a78a7f
 #e7d7c1
-#735751 */
-
+#735751
+#bf4342 */
 #bg1 {
   background-color: #735751;
 }
+
 #bg2 {
   background-color: #e7d7c1;
+}
+
+h1 {
+  font-family: 'Outfit', sans-serif;
+}
+
+.text1 {
+  color: black;
+}
+
+.text2 {
+  color: white;
+}
+
+.center {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.bottom {
+  padding-bottom: 100px;
 }
